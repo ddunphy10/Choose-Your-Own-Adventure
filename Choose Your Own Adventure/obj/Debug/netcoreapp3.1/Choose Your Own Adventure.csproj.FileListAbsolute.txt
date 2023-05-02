@@ -1,0 +1,12 @@
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.exe
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.deps.json
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.dll
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\bin\Debug\netcoreapp3.1\Choose Your Own Adventure.pdb
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.dll
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.pdb
+D:\Dayton\Personal Projects\C# Projects\Choose Your Own Adventure\obj\Debug\netcoreapp3.1\Choose Your Own Adventure.genruntimeconfig.cache
